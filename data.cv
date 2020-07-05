@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link type="text/css" rel="stylesheet" media="all" href="css/main.css" />
+<script type="text/javascript" src="js/prototype-min.js"></script>
+<script type="text/javascript" src="js/effects-min.js"></script>
+<script type="text/javascript" src="js/accordion-min.js"></script>
+<script type="text/javascript" src="js/lightbox-min.js"></script>
+<script type="text/javascript" src="js/functions-min.js"></script>
+<!--[if lt IE 7]>
+<script src="js/pngfix-min.js" type="text/javascript"></script>
+<script>
+  DD_belatedPNG.fix('#');
+</script>
+<![endif]-->
+<title>farmahini.com وبسایت فرمهینی</title>
+</head>
+<body>
+    <div id="container">
+      <div id="header">
+      <!-- Logo -->
+        <h1 id="logo">
+          <a href="http://www.farmahini.com">farmahini.com</a>
+        </h1>
+        <br class="cl" />
+      </div>
+      <!-- Slider Start -->
+      <div id="content_wrapper">
+        <div id="content">
+          <div id="slider_container">
+          <!-- About Section -->
+            <h2 id="about" class="slider_toggle"></h2>
+            <div class="slider_content">
+              <div id="about_content" class="slider_content_wrapper" dir="rtl">
+              <!-- About Slide Content -->
+                <h3>فرمهینی</h3>
+                <p>
+                <!-- avatar -->
+                <img class="fl" src="./img/avatar.png" alt="" />
+                <!-- /avatar -->
+<ul dir="rtl">
+					<li><span lang="fa">سرویس های میزبانی وب</span></li>
+					<li><span lang="fa">سرویس های نمایندگی میزبانی وب</span></li>
+					<li><span lang="fa">طراحی وب سایت های </span>Static, Dynamic</li>
+					<li><span lang="fa">خدمات مدیریت سرور و شبکه های لینوکسی</span></li>
+                    <li><span lang="fa">برنامه نویسی و طراحی نرم افزار تحت ویندوز</span></li>
+                    <li><span lang="fa">برنامه نویسی و طراحی ماکرومدیا فلش</span></li>
+					<li><span lang="fa">نصب پروتال سفارشی شده</span></li>
+</ul>
+                </p>
+                <p>
+<div align="center"><a href="http://www.farmahini.com/">
+				<font size="3">Www.farmahini.COM</font></a></div>
+<div align="center"><a href="http://www.farmahini.ir/">
+				<font size="3">Www.farmahini.IR</font></a></div>
+<div align="center"><a href="http://www.ei-jone.ir/">
+				<font size="3">Www.ei-jone.IR</font></a></div>
+				<p align="center"><font size="3"><script type="text/javascript">emailE=('support@' + 'farmahini.com')
+document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')
+</script>
+<noscript>
+    <em>Email address protected by JavaScript.<BR>
+    Please enable JavaScript to contact me.</em>
+</noscript></font></p>
+                </p>
+                <!-- /About Slide Content -->
+              </div>
+            </div>
+            <!-- Social Section -->
+            <h2 id="social" class="slider_toggle"></h2>
+            <div class="slider_content">
+              <div id="social_content" class="slider_content_wrapper">
+              <!-- Social Slide Content -->
+                <h3>My Links</h3>
+                
+                <ul id="social_lists">
+                <!-- Linked In -->
+                <li><a href="http://farmahini.com"><img class="fl" src="./img/icons/farmahini.com.png" alt="farmahini.com" /><strong>فرمهینی دات کام</strong>
+				<span>http://farmahini.com</span></a><br class="cl" /></li>
+                <!-- /Linked In -->
+                <!-- Facebook -->
+                <li><a href="http://farmahini.ir"><img class="fl" src="./img/icons/farmahini.ir.png" alt="farmahini.ir" /> <strong>فرمهینی دات آی آر</strong>
+				<span>http://farmahini.ir</span></a><br class="cl" /></li>
+                <!-- /Facebook -->
+                <!-- FriendFeed -->
+                <li><a href="http://ei-jone.ir"><img class="fl" src="./img/icons/ei-jone.ir.png" alt="ei-jone.ir" /> <strong>مرکز فروش</strong>
+				<span>http://ei-jone.ir</span></a><br class="cl" /></li>
+                <!-- /FriendFeed -->
+                <!-- Twitter -->
+                <li><a href="http://shop.ei-jone.ir"><img class="fl" src="./img/icons/shop.ei-jone.ir.png" alt="shop.ei-jone.ir" /> <strong>فروشگاه</strong>
+				<span>http://shop.ei-jone.ir</span></a><br class="cl" /></li>
+                <!-- /Twitter -->
+                <!-- Flickr -->
+                <li><a href="http://host.ei-jone.ir"><img class="fl" src="./img/icons/host.ei-jone.ir.png" alt="host.ei-jone.ir" /> <strong>فروش هاست</strong>
+				<span>http://host.ei-jone.ir</span></a><br class="cl" /></li>
+                <!-- /Flickr -->
+                <!-- Vimeo -->
+                <li><a href="http://domain.ei-jone.ir"><img class="fl" src="./img/icons/domain.ei-jone.ir.png" alt="domain.ei-jone.ir" /><strong>ثبت دامین</strong>
+				<span>http://domain.ei-jone.ir</span></a><br class="cl" /></li>
+                <!-- /Vimeo -->
+                </ul>
+                <br class="cl" />
+               
+<!-- /Social Slide Content -->
+              </div>
+            </div>
+            <!-- Portfolio Section -->
+            <h2 id="portfolio" class="slider_toggle"></h2>
+            <div class="slider_content">
+              <div id="portfolio_content" class="slider_content_wrapper" dir="rtl">
+              <!-- Portfolio Slide Content -->
+                <h3>سایت ساز و پروتال فرمهینی</h3>
+                <div style="overflow: scroll;height:270px;width:470px;">
+مجموعه ای از کد ها و برنامه های بهینه سازی شده که می توانند راه و شیوه ساده ای را برای مهیا ساختن یک سایت کامل به شما ارائه دهند همه این مجموعه در قالب سایت ساز فرمهینی ارائه می شود
+<br />
+<b>دارای سیستم های :</b><br>
+1- لينك به كلمه 2- خبرنامه 3- مرکز آپلود 4- مرکز دانلود 5- نظرسنجی 6- پیغام خصوصی 7- امتیاز به مطلب 8- نمایش تصویر تصادفی 9- شمارش معکوس پیشرفته 10-  نمایش اطلاعات اعضای سایت 11- نمایش اطلاعات کاربران آنلاین 12- ثبت پرسش‌های متداول 13- انجمن گفتگوی پیشرفته 14- جذب آگهی جهت نمایش آگهی و کسب درآمد 15-  گالری عکس پیشرفته 16- سیستم عضویت 17-  پوسته سفارشی 
+<br><b>امکان ساخت :</b>
+1- ایجاد منوهای چرخشی 2- فیلتر خودکار کلمات در نظرات 3- معلق ساختن اعضای سایت 4- طراحی نقشه سایت با کمک گوگل 5- تغییر تنظیمات سایت به صورت کامل 6- مدیریت محتوای سایت به طور کامل 7- انتخاب قالب دلخواه برای اعضای سایت 8- ایجاد و نمایش آگهی افکت دار در سایت 9- ارسال پیام خصوصی برای اعضای سایت 10- ایجاد و نمایش تبلیغات طبقه‌بندی شده 11- ایجاد صفحه٬ منو و زیرمنو به تعداد نامحدود 12- تغییر قالب (پوسته) سایت فقط با یک کلیک 13- ایجاد لوگو یا آگهی شناور در صفحه اول سایت 14- مشاهده ادامه مطلب فقط برای اعضای سایت 15- افزودن لینک "پیگیری مطالب" به مطالب سایت 16- مشارکت اعضای سایت در به‌روز رسانی سایت 17- انتخاب زبان برای اعضای سایت (فارسی و انگلیسی) 18- نمایش آخرین ارسال های انجمن در صفحه اول سایت 19- نمایش برترین لینک‌ها٬ برترین دانلودها و دیگر برترین‌ها 20- افزودن امکانات اضافی از طریق کنترل پنل با آسان‌ترین روش 21- افزودن لینک به کلمه یا کلماتی خاص در سایت به‌صورت خودكار 22- به روز کردن سایت با مطالب از پیش ارسال شده به طور خودکار 23- ایجاد صفحه درخواست‌های کاربران و نمایش میزان پیشرفت آن‌ها 24- ایجاد صفحه بازتاب اخبار (نمایش اخبار سایت‌های دیگر در سایت) 25- ايجاد صفحات رمزدار 26- آپلود عکس به‌صورت مستقیم از کنترل پنل 27- تنظیم پیام خوش‌آمد گویی جداگانه برای مهمانان٬ اعضا و مدیران و گروه‌های دلخواه 
+              </div>
+
+                <br class="cl" />
+                <!-- /Portfolio Slide Content -->
+              </div>
+            </div>
+            <!-- Contact Section -->
+            <h2 id="contact" class="slider_toggle"></h2>
+            <div class="slider_content">
+              <div id="contact_content" class="slider_content_wrapper" dir="rtl">
+              <!-- Contact Slide Content -->
+                <h3>فرم تماس</h3>
+                <p>
+                  از طریق ارسال ایمیل می توانید با ما در ارتباط باشید
+                </p>
+                <!-- Contact Card -->
+                <div id="contact_card"><h4>فرمهینی</h4>
+                  
+                  <!-- Your Name -->
+                  
+                  <br class="cl" />
+<ul>
+<!-- Your Email Address -->
+<li><script type="text/javascript">emailE=('support@' + 'farmahini.com')
+document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')
+</script>
+<noscript>
+    <em>Email address protected by JavaScript.<BR>
+    Please enable JavaScript to contact me.</em>
+</noscript><img class="fl" src="./img/icons/email.png" alt="" /></li>
+<!-- Your Physical Address -->
+<li><script type="text/javascript">emailE=('farmahiny@' + 'gmail.com')
+document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')
+</script>
+<noscript>
+    <em>Email address protected by JavaScript.<BR>
+    Please enable JavaScript to contact me.</em>
+</noscript><img class="fl" src="./img/icons/email.png" alt="" /></li>
+<!-- Your Phone Number -->
+<li class="strong">09300000000<img class="fl" src="./img/icons/phone.png" alt="" /></li>
+<li>ارسال پیام از طریق مسنجر<a href="ymsgr:sendIM?farmahini_com"><img src="http://opi.yahoo.com/online?u=farmahini_com&amp;m=g&amp;t=1" alt="من آنلانم بهم پیام بده" border="0" hspace="0" vspace="0"></a></li>
+
+</ul>
+                </div>
+                
+                <!-- /Contact Slide Content -->
+              </div>
+            </div>
+          </div><br class="cl" />
+        </div>
+      </div>
+         <div id="footer">
+        Copyright &copy;2009, <a href="http://www.farmahini.com">farmahini</a>.
+      </div>
+    </div>
+
+  </body>
+</html>
