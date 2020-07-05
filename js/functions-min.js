@@ -1,0 +1,1 @@
+Event.observe(window,"load",loadAccordions,false);function loadAccordions(){var a=new accordion("slider_container",{classNames:{toggle:"slider_toggle",toggleActive:"hslider_active",content:"slider_content"},defaultSize:{width:510},direction:"horizontal"});a.activate($$("#slider_container .slider_toggle")[0])};
